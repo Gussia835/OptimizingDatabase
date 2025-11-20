@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cyberkolya", "Cyberkolya\Cyberkolya.vcxproj", "{28C035C8-E4B3-42FC-B478-18791D9A58B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CyberkolyaTests", "CyberkolyaTests\CyberkolyaTests.vcxproj", "{3E3B642C-CEA2-4CA8-A5EE-7695471CABFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C035C8-E4B3-42FC-B478-18791D9A58B1}.Debug|x64.ActiveCfg = Debug|x64
+		{28C035C8-E4B3-42FC-B478-18791D9A58B1}.Debug|x64.Build.0 = Debug|x64
+		{28C035C8-E4B3-42FC-B478-18791D9A58B1}.Release|x64.ActiveCfg = Release|x64
+		{28C035C8-E4B3-42FC-B478-18791D9A58B1}.Release|x64.Build.0 = Release|x64
+		{3E3B642C-CEA2-4CA8-A5EE-7695471CABFD}.Debug|x64.ActiveCfg = Debug|x64
+		{3E3B642C-CEA2-4CA8-A5EE-7695471CABFD}.Debug|x64.Build.0 = Debug|x64
+		{3E3B642C-CEA2-4CA8-A5EE-7695471CABFD}.Release|x64.ActiveCfg = Release|x64
+		{3E3B642C-CEA2-4CA8-A5EE-7695471CABFD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89A780D-E1B2-48A2-B255-AB32F9F41E9D}
+	EndGlobalSection
+EndGlobal
